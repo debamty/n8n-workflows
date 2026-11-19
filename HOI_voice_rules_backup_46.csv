@@ -1,0 +1,47 @@
+rule_id,rule_type,platform,rule,max_chars
+B01,banned,all,unlock,0
+B02,banned,all,unleash,0
+B03,banned,all,elevate,0
+B04,banned,all,delve,0
+B05,banned,all,game changer,0
+B06,banned,all,revolutionary,0
+B07,banned,all,seamless,0
+B08,banned,all,leverage,0
+B09,banned,all,synergy,0
+B10,banned,all,in today's fast paced world,0
+B11,banned,all,let that sink in,0
+B12,banned,all,here is the thing,0
+B13,banned,all,the truth is,0
+B14,banned,all,buckle up,0
+B15,banned,all,dive deep,0
+B16,banned,all,low hanging fruit,0
+B17,banned,all,circle back,0
+B18,banned,all,at the end of the day,0
+B19,banned,all,hot take,0
+B20,banned,all,thoughts?,0
+B21,banned,all,agree?,0
+B22,banned,all,who else,0
+B23,banned,all,folks,0
+B24,banned,all,needle moving,0
+B25,banned,all,supercharge,0
+F01,forbid,all,emoji,0
+F02,forbid,all,hashtag,0
+F03,forbid,all,dash,0
+F04,forbid,all,placeholder,0
+F05,forbid,all,question_opener,0
+F06,forbid,all,all_caps_shout,0
+L01,limit,linkedin,Maximum characters for the LinkedIn post,2600
+L02,limit,instagram,Maximum characters for the Instagram caption,1800
+L03,limit,whatsapp,Maximum characters for the WhatsApp broadcast,700
+L04,limit,hook,Maximum characters for one hook line,140
+S01,style,all,Write like one person talking to another person. Short sentences. No stacked adjectives.,0
+S02,style,all,One idea per line. Break long text into paragraphs of one to three lines.,0
+S03,style,all,"Lead with something specific. A number, a named thing or a real moment in the first two lines.",0
+S04,style,all,Indian English. Use Rs for money and lakh or crore for large numbers.,0
+S05,style,all,"Open with a statement, never with a question.",0
+S06,style,all,"End on one clear line. Never beg for comments, shares or follows.",0
+S07,style,all,"Never claim a result, a number or a client name that was not given to you.",0
+S08,style,all,No motivational framing. Say what happened and what it means.,0
+S09,style,linkedin,"First two lines must work alone, because that is all LinkedIn shows before the more link.",0
+S10,style,instagram,Caption is written for someone who already saw the image. Do not describe the image.,0
+S11,style,whatsapp,"Written for a broadcast list. Direct, useful, no greeting, no sign off.",0
